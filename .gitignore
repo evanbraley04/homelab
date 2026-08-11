@@ -1,0 +1,7 @@
+.env
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+.DS_Store
